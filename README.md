@@ -1,4 +1,4 @@
 # dOPC_demo
-Пример работы с OPC-сервером
+Пример работы с OPC-сервером на Delphi
 
 ![screenshot](screenshot.png)
